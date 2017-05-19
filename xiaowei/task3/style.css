@@ -1,0 +1,82 @@
+body{
+    font-size:12px;
+}
+.container{
+    background:#eee;
+    border:solid 1px #999;
+    padding:20px;
+    overflow: hidden;
+}
+img{
+    width:80px;
+    height:80px;
+    padding:20px;
+}
+.box{
+    border:solid 1px #999;
+}
+.team{
+    width:200px;
+}
+.team div{
+    float:right;
+    margin-top:20px;
+    margin-right:20px;
+}
+.left1{
+    float:left;
+}
+.right1{
+    float:right;
+}
+.personal{
+    width:120px;
+}
+
+.center1{
+    margin-left:220px;
+    margin-right:140px;
+}
+.center2{
+    float:left;
+    width:100%;
+}
+.left2{
+    float:left;
+    width:200px;
+    margin-left:-100%;
+    position:relative;
+    left:-220px;
+}
+.right2{
+    float:left;
+    width:120px;
+    margin-left:-140px;
+    position:relative;
+    left:160px;
+}
+
+.ct{
+    margin-left:220px;
+    margin-right:140px;
+    min-width:200px;
+}
+
+.center3{
+    float:left;
+    width:100%;
+}
+.left3{
+    float:left;
+    margin-left:-100%;
+    width:200px;
+}
+.right3{
+    float:left;
+    width:120px;
+    margin-left:-120px;
+}
+.content{
+    margin-left:220px;
+    margin-right:140px;
+}
