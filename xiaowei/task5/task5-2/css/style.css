@@ -132,16 +132,16 @@ form{
 }
 .side-bar{
     position:absolute;
-    width:290px;
+    width:310px;
     height:400px;
     top:-18px;
     right:0;
 }
 .main{
-    margin-right:290px;
+    margin-right:310px;
 }
 .content, #password, #confirmPassword{
-    width:102px;
+    width:108px;
     height:12px;
 }
 

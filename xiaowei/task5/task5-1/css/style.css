@@ -129,15 +129,15 @@ form{
 }
 .side-bar{
     float:right;
-    width:290px;
+    width:310px;
     height:400px;
     margin-top:-18px;
 }
 .main{
-    margin-right:280px;
+    margin-right:300px;
 }
 .content, #password, #confirmPassword{
-    width:102px;
+    width:108px;
     height:12px;
 }
 
