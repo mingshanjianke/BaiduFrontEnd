@@ -1,0 +1,377 @@
+.container{
+    border:solid 1px rgb(225,225,225);
+    width:980px;
+    height:1386px;
+    margin:0 auto;
+    padding:0 37px;
+}
+.header{
+    position:relative;
+    border-bottom:solid 2px rgb(147,142,140);
+    height:61px;
+}
+.header img{
+    width:110px;
+    height:61px;
+}
+.website-name{
+    position:absolute;
+    left:6.4px;
+    bottom:5px;
+    font-size:6px;
+    color:white;
+}
+.time{
+    position:absolute;
+    bottom:2px;
+    right:0;
+    font-size:6px;
+    color:#cc8091;
+}
+.first-left{
+    padding-top:29px;
+    position:relative;
+    width:641px;
+    height:301px;
+}
+#largeLeft img{
+    width:641px;
+    height:301px;
+}
+#blue img, #red img{
+    width:191px;
+    height:301px;
+}
+#blue{
+    position:absolute;
+    left:0;
+    top:29px;
+}
+#red{
+    position:absolute;
+    right:0;
+    top:29px;
+}
+.first{
+    position:relative;
+}
+.first-right{
+    position:absolute;
+    top:29px;
+    right:29px;
+}
+#dividing-line{
+    width:203px;
+    height:2px;
+    background:#cc8091;
+}
+.link:first-letter{
+    font-size:125%;
+}
+.link a{
+    text-decoration:none;
+    border-bottom:solid 2px black;
+    color:#000;
+}
+.link{
+    font-family:"Microsoft YaHei";
+    color:#000;
+    font-size:24px;
+}
+.first-right p{
+    font-family:"KaiTi";
+    font-size:12px;
+    color:#676767;
+    line-height:3px;
+}
+.content{
+    font-size:116px;
+    color:#75b86b;
+    font-family:"Microsoft YaHei";
+    font-style:italic;
+    margin-top:-30px;
+}
+.number, .letter{
+    display:inline-block;
+}
+.number{
+    font-size:55px;
+    color:#cc8091;
+    font-family: "Microsoft YaHei";
+}
+.letter-top{
+    font-size:21px;
+    color:#cc8091;
+    font-family: "Microsoft YaHei";
+}
+.letter-bottom{
+    font-size:12px;
+    color:#cc8091;
+    font-family: "Microsoft YaHei";
+}
+.entity{
+    margin-top:-10px;
+}
+.second{
+    margin-top:32px;
+    height:132px;
+    font-family:"Microsoft YaHei";
+    font-size:16px;
+}
+.second-one, .second-two, .second-three{
+    display:inline-block;
+    vertical-align:top;
+}
+.second-one,.second-two{
+    width:30%;
+    height:132px;
+    margin-right:18px;
+}
+.second-three{
+    width:15%;
+    height:132px;
+}
+.second-one p, .second-two p, .second-three p{
+    font-size:12px;
+    color:#231815;
+    opacity: 70%;
+}
+#what{
+    color:#418c59;
+    border-bottom: solid 1px #418c59;
+    width:40px;
+}
+#when{
+    color:#d2994f;
+    border-bottom: solid 1px #d2994f;
+    width:44px;
+}
+#how{
+    color:#cc7680;
+    border-bottom: solid 1px #cc7680;
+    width:36px;
+}
+.small{
+    font-size:12px;
+    font-family:"Microsoft YaHei";
+    opacity: 70%;
+}
+.small-what{
+    color:#cd4a48;
+}
+.three{
+    margin-top:56px;
+}
+.three-left{
+    display:inline-block;
+    vertical-align: top;
+    width:415px;
+    margin-right:10px;
+}
+.three-right{
+    width:458px;
+    display: inline-block;
+    vertical-align: top;
+}
+.computer img{
+    width:458px;
+    height:275px;
+}
+.title{
+    border-bottom: solid 2px #11456b;
+}
+.bg{
+    width:459px;
+    height:318px;
+    background:rgb(238,237,214);
+    margin-top:25.6px;
+}
+.title-one,.title-two{
+    font-family:"SimHei";
+    font-size:42px;
+    color:#11456b;
+    font-weight: bold;
+}
+.title-one .special{
+    font-size:72px;
+    color:#f5e327;
+    font-style:italic;
+}
+.title-three{
+    font-size:33px;
+    color:#11456b;
+    font-family: "SimHei";
+    font-weight: bold;
+}
+.pagraph{
+    padding-top:16px;
+}
+.pagraph p{
+    font-size:12px;
+    color:#767777;
+    font-family: "SimSun";
+}
+.begin:first-letter{
+    float:left;
+    font-size:72px;
+    font-family:"Microsoft YaHei";
+    color:#f5e327;
+    padding-right:5px;
+}
+.pagraph img{
+    float:right;
+    padding:10px;
+    width:167px;
+    height:288px;
+}
+#gray-frame img{
+    width:458px;
+    height:60px;
+}
+.computer{
+    position:relative;
+}
+#gray-frame{
+    position:absolute;
+    top:215px;
+}
+.bottom-word{
+    height:44px;
+    margin-left:35px;
+    border-left:solid 3px #72b16a;
+    position:absolute;
+    top:225px;
+}
+#special-bottom-one{
+    font-size:26px;
+    font-family:"Microsoft YaHei";
+    color:#ffffff;
+    margin-left:10px;
+}
+#special-bottom-two{
+    font-size:12px;
+    font-family:"Microsoft YaHei";
+    font-style: italic;
+    color: #72b16a;
+}
+.triangle-up{
+    display: inline-block;
+    width:0;
+    height:0;
+    border-left:solid 5px transparent;
+    border-right:solid 5px transparent;
+    border-bottom: solid 10px darkblue;
+}
+.specialOther{
+    padding-top:25.6px;
+    padding-left:25.6px;
+}
+.specialOther-three, .specialOther-two{
+    margin-top:20px;
+}
+.specialOther-bottom-one{
+    font-size:16px;
+    color:#5a5b5b;
+    font-family: "SimSun";
+}
+.specialOther-bottom-two{
+    font-size:12px;
+    color:#5a5b5b;
+    font-family: "SimSun";
+    font-style: italic;
+}
+.bottom{
+    position:relative;
+}
+.bottom-left img{
+    width:260px;
+    height:160px;
+}
+.bottom-left{
+    width:260px;
+    height:160px;
+    position:absolute;
+    left:0;
+    bottom:0;
+}
+.hello{
+    position:relative;
+}
+.bottom-right{
+    position:absolute;
+    right:10px;
+    bottom:20px;
+    width:180px;
+    height:128px;
+    margin-left:25px;
+}
+.bottom-right p{
+    font-size:14px;
+    color:#5a5b5b;
+    font-family:"SimHei";
+}
+.quo-one,.quo-two{
+    font-size:72px;
+    color:#d45d5c;
+    font-family: "SimHei";
+}
+.quo-one{
+    position:absolute;
+    left:-40px;
+    top:-20px;
+}
+.quo-two{
+    position:absolute;
+    bottom:-60px;
+    right:0px;
+}
+#whole{
+    position:relative;
+}
+#zero{
+    font-size:110px;
+    color:#fff;
+    font-family:"Microsoft YaHei";
+    position:absolute;
+    bottom:0px;
+    left:10px;
+}
+#alpha{
+    position:absolute;
+    right:10px;
+    bottom:25px;
+    line-height:3px;
+}
+#vertical{
+    position:absolute;
+    width:2px;
+    height:86px;
+    background-color:white;
+    left:80px;
+    bottom:25px;
+}
+#alpha p:nth-child(1){
+    font-size:21px;
+    color: #fff;
+    font-family: "SimHei";
+    font-style: italic;
+}
+#alpha p:nth-child(2){
+    font-size:21px;
+    color: #fff;
+    font-family: "SimHei";
+    font-style: italic;
+}
+#alpha:nth-child(3),#alpha:nth-child(4){
+    font-size:12px;
+    color: #fff;
+    font-family: "SimHei";
+}
+footer{
+    margin-top:60px;
+    border-top:solid 2px rgb(147,142,140);
+}
+#website-name{
+    float:right;
+    color:#cc7680;
+}
